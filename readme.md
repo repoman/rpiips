@@ -1,6 +1,6 @@
 # RPIIPS (Raspberry Pi IPs)
 
-Make your Raspberry Pi email its local and external IPs to you when it starts.
+Make your Raspberry Pi email its local and external IPs to you on reboot.
 
 ### Setting it up
 Put the rpiips folder in /home/pi
